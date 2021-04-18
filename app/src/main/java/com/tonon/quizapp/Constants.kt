@@ -11,12 +11,11 @@ object Constants{
 
         val que1 = Question(
             1,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_brazil,
-            "Argentina",
-            "Brasil",
-            "chile",
-            "Peru",
+            "No ano do ataque as torres gêmeas em Nova Iorque, quem era o presidente americano?",
+            "Ronald Reagan",
+            "George W. Bush",
+            "Bill Clinton",
+            "George H. W. Bush",
             2
         )
         questionsList.add(que1)
@@ -24,12 +23,11 @@ object Constants{
 
         val que2 = Question(
             2,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_argentina,
-            "Argentina",
-            "Brasil",
-            "Venezuela",
-            "Colombia",
+            "Por qual filme, Meryl Streep, ganhou seu primeiro Oscar?",
+            "Kramer vs. Kramer",
+            "A escolha de Sofia ",
+            "A dama de ferro",
+            "Silkwood, retrato de uma coragem",
             1
         )
         questionsList.add(que2)
@@ -37,12 +35,11 @@ object Constants{
 
         val que3 = Question(
             3,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_australia,
-            "Australia",
-            "Inglaterra",
-            "Áustria",
-            "Nova Zelândia",
+            "Quem ficou famosa na história como uma das principais engenheiras por trás do projeto Apollo, maior feito da NASA?",
+            "Margaret Heafield",
+            "Rose Blends",
+            "Anie Parks",
+            "Não tinha nenhuma mulher",
             1
         )
         questionsList.add(que3)
@@ -50,12 +47,11 @@ object Constants{
 
         val que4 = Question(
             4,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_belgium,
-            "Alemanha",
-            "Holanda",
-            "Áustria",
-            "Bélgica",
+            "Onde fica localizado o Vale do Silício?",
+            "Fremont",
+            "Santa Clara",
+            "San José",
+            "San Francisco",
             4
         )
         questionsList.add(que4)
@@ -63,12 +59,11 @@ object Constants{
 
         val que5 = Question(
             5,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_denmark,
-            "Egito",
-            "Dinamarca",
-            "Djibouti",
-            "Dominica",
+            "\"A mente que se abre a uma nova ideia jamais volta a seu tamanho original.\" Quem é o autor dessa frase? ",
+            "Maquiavel",
+            "Einstein",
+            "Platão",
+            "Nietzsche",
             2
         )
         questionsList.add(que5)
@@ -76,12 +71,11 @@ object Constants{
 
         val que6 = Question(
             6,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_fiji,
-            "Andorra",
-            "Kosovo",
-            "Fiji",
-            "Ucrânia",
+            "Qual o planeta mais quente já descoberto?",
+            "ULAS J1120+0641",
+            "Puppis A",
+            "WASP-12b",
+            "TrES-4",
             3
         )
         questionsList.add(que6)
@@ -89,12 +83,11 @@ object Constants{
 
         val que7 = Question(
             7,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_germany,
-            "Romênia",
-            "Hungria",
-            "Áustria",
-            "Alemanha",
+            "Qual é o segundo livro mais vendido do mundo?",
+            "Bíblia",
+            "O Senhor dos Anéis",
+            "O Pequeno Príncipe",
+            "Dom Quixote",
             4
         )
         questionsList.add(que7)
@@ -102,12 +95,11 @@ object Constants{
 
         val que8 = Question(
             8,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_india,
-            "India",
-            "Tailândia",
-            "Gibraltar",
-            "Filipinas",
+            "Quem pintou \"Guernica\"?",
+            "Pablo Picasso",
+            "Tarsila do Amaral",
+            "Salvador Dalí",
+            "Diego Rivera",
             1
         )
         questionsList.add(que8)
@@ -115,12 +107,11 @@ object Constants{
 
         val que9 = Question(
             9,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_kuwait,
-            "Malásia",
-            "Maldivas",
-            "Indonesia",
-            "Kuwait",
+            "Qual a montanha mais alta do Brasil?",
+            "Pico Paraná",
+            "Monte Roraima",
+            "Pico da Bandeira",
+            "Pico da Neblina",
             4
         )
         questionsList.add(que9)
@@ -128,12 +119,11 @@ object Constants{
 
         val que10 = Question(
             10,
-            "A Qual país pertence essa bandeira?",
-            R.drawable.ic_flag_of_new_zealand,
-            "Tuvalu",
-            "Austrália",
-            "Nova Zelândia",
-            "Polinésia",
+            "Em que período da pré-história o fogo foi descoberto?",
+            "Idade Média",
+            "Neolítico",
+            "Paleolítico",
+            "Período da Pedra Polida",
             3
         )
         questionsList.add(que10)

@@ -24,13 +24,6 @@
             android:textSize="20sp"
             android:text="A qual país pertence essa bandeira?"/>
 
-        <ImageView
-            android:id="@+id/bandeira"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="15dp"
-            android:src="@drawable/ic_flag_of_brazil"/>
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

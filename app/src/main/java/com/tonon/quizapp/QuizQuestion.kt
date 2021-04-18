@@ -79,8 +79,6 @@ class QuizQuestion : AppCompatActivity(), View.OnClickListener {
         val questionTitle = binding.question
         questionTitle.text = question!!.question
 
-        val image = binding.bandeira
-        image.setImageResource(question.image)
 
         val optionOne = binding.optionOne
         optionOne.text = question.optionOne
@@ -203,5 +201,6 @@ class QuizQuestion : AppCompatActivity(), View.OnClickListener {
         tv.setTypeface(tv.typeface, Typeface.BOLD)
         tv.background = ContextCompat.getDrawable(this, R.drawable.selected_bg_border)
     }
+
 
 }
